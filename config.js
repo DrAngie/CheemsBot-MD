@@ -1,4 +1,4 @@
-//═══════[© 2022 Xeon Bot Inc.]════════\\
+//═══════[© 2022 thunder inc.]════════\\
 
 //~you can re-upload but tag my channel
 //or put my channel link in the description.
@@ -22,7 +22,7 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['081 009 1952'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.owner = ['081 009 1952''073 751 6111] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['916909137213'] //another owner number
 global.premium = ['081 009 1952'] //premium number
 global.pengguna = 'Xeon' //username
